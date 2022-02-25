@@ -1,23 +1,32 @@
 # Mission-to-Mars
 
-*Note: This repository was generated to fulfill assignments (Module 10 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Submitted on 1-7-22 for grading.*
+*Note: This repository was generated to fulfill assignments (Module 10 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Content and code were based on module instructions and grading rubric.*
 
-## Overview
-In this module, we learned how to scrape text and image data from websites, store data in a mongo database, and render an html page on a local server using flask.
+
+## Summary Overview
+This project demonstrates some basic skills in  web scraping and building a web app using FLASK. 
+
+
+we learned how to scrape text and image data from websites, store data in a mongo database, and render an html page on a local server using flask.
+
+**Figure 1: Web App Displaying Mars Informtion**
+![Mars.png](/Images/Mars.png)
 
 ---
 ## Module Exercises
-- Use DevTools
-- Understand basic html structure
-- Use Splinter and BeautifulSoup to parse html
-- Create a mongo database
-- Insert and call data from a mongo database
-- Use flask to call a python file with functions to scrape and store web data
-- Render an html page with flask and data stored in mongo
+- Building locally hosted web app using FLASK
+- Introduction to HMTL
+- Using DevTools
+- Using Splinter and BeautifulSoup to parse html
+- Automating web scraping
+- Creating a mongo database
+  - Inserting data
+  - Calling data via flask app
+- Rendering a web app page with flask and data stored in mongoDB
 
 
 ---
-## Challenge Files
+## Challenge files for grading
 - Mission_to_Mars_Challenge.ipynb
 - app.py
 - scraping.py
