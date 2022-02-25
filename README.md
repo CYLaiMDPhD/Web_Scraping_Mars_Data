@@ -15,10 +15,11 @@ Figure 1 below displays the webpage with information scraped on 2-25-22.
 
 
 **Data Sources:**
-()
-()
-()
-()
+
+Mars News Website: (https://redplanetscience.com)
+Mars Featured Image: (https://spaceimages-mars.com)
+Mars Facts Table: (https://galaxyfacts-mars.com)
+Mars Hemisphere Images: (https://marshemispheres.com/)
 
 ---
 ## Module Exercises
