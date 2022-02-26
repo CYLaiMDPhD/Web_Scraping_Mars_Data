@@ -1,4 +1,4 @@
-# Mission-to-Mars
+# Mars Data
 
 *Note: This repository was generated to fulfill assignments (Module 10 Exercises and Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Content and code were based on the module instructions and grading rubric.*
 
