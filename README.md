@@ -4,7 +4,7 @@
 
 
 ## Summary Overview
-This project demonstrates some basic skills in web scraping and building a web app using FLASK. Information about Mars was scraped from various sources and stored as unstructured data in a mongo database. BeautifulSoup was used to parse html text. FLASK was used to create a web app to display all stored information and scraping was automated using a script linked to the app and html button.
+This project demonstrates some basic skills in web scraping and building a web app using Flask. Information about Mars was scraped from various sources and stored as unstructured data in a mongo database. BeautifulSoup was used to parse html text. Flask was used to create a web app to display all stored information and scraping was automated using a script linked to the app and html button.
 
 Figure 1 below displays the webpage with information scraped on 2-25-22.
 
@@ -33,8 +33,8 @@ Mars Hemisphere Images: (https://marshemispheres.com/)
 - Automating web scraping
 - Creating a mongo database
   - Inserting data
-  - Calling data via flask app
-- Building locally hosted web app using FLASK
+  - Calling data via Flask app
+- Building locally hosted web app using Flask
 - Rendering a web app page with flask and data stored in mongoDB
 
 
